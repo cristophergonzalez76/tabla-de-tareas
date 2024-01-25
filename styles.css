@@ -20,3 +20,8 @@ table {
         
 
 }
+
+
+#mitabla tbody td[contenteditable="true"].seleccionada {
+    background-color: #ffcccc; /* Color de fondo para resaltar la celda seleccionada */
+}
